@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">StateShopApp</string>
+    <string name="confirm">Confirm</string>
+    <string name="total">Total</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="checkout">Checkout</string>
+    <string name="checkout_time">Cooking time</string>
+    <string name="checkout_description">Some amazing description where describes about timing to get ready your order</string>
+    <string name="see_more">See more...</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="moves"><u>Moves:</u></string>
+    <string name="abilities"><u>Abilities:</u></string>
 </resources>
